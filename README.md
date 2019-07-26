@@ -4,7 +4,7 @@ Thesis title: Unsupervised representation learning for medical imaging
 This repository stores the final code implemented for the research project as well as its memory, the presentation
 and all the disclosable datasets.
 
-Code implemented with Python and Tensorflow in the environment Google Colaboratory.
+Code implemented with Python 3 and Tensorflow v1.14 in the environment Google Colaboratory.
 
 # Abstract
 
